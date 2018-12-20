@@ -1,2 +1,2 @@
 # Terzyme
-A tool to identify Terpene Synthase in Plant and predict its secondary structures
+A tool to identify Terpene Synthase and Prenyl Tranferases in Plant followed by prediction of thier secondary structures
